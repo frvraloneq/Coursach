@@ -1,0 +1,5 @@
+﻿  MainForm.cpp
+C:\Users\FRVRAloneQ\Desktop\Новая папка\FedorGorohov\MainForm.cpp(151,25): warning C4101: e: неиспользованная локальная переменная
+C:\Users\FRVRAloneQ\Desktop\Новая папка\FedorGorohov\MainForm.cpp(218,25): warning C4101: e: неиспользованная локальная переменная
+  MainForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  FedorGorohov.vcxproj -> C:\Users\FRVRAloneQ\Desktop\Новая папка\x64\Debug\FedorGorohov.exe

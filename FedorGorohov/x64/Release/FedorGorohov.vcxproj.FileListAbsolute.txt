@@ -1,0 +1,4 @@
+C:\Users\FRVRAloneQ\Desktop\Новая папка\FedorGorohov\x64\Release\FedorGorohov.vcxproj.AssemblyReference.cache
+C:\Users\FRVRAloneQ\Desktop\Новая папка\FedorGorohov\x64\Release\FedorGorohov.vcxproj.ResolveComReference.cache
+C:\Users\FRVRAloneQ\Desktop\Новая папка\FedorGorohov\x64\Release\FedorGorohov.MainForm.resources
+C:\Users\FRVRAloneQ\Desktop\Новая папка\FedorGorohov\x64\Release\FedorGorohov.vcxproj.GenerateResource.cache

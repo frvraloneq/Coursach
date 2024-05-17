@@ -1,0 +1,9 @@
+C:\Users\FRVRAloneQ\source\repos\FedorGorohov\FedorGorohov\x64\Debug\FedorGorohov.vcxproj.AssemblyReference.cache
+C:\Users\FRVRAloneQ\source\repos\FedorGorohov\FedorGorohov\x64\Debug\FedorGorohov.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\FRVRAloneQ\source\repos\FedorGorohov\FedorGorohov\x64\Debug\FedorGorohov.MainForm.resources
+C:\Users\FRVRAloneQ\source\repos\FedorGorohov\FedorGorohov\x64\Debug\FedorGorohov.vcxproj.GenerateResource.cache
+C:\Users\FRVRAloneQ\source\repos\FedorGorohov\FedorGorohov\x64\Debug\FedorGorohov.vcxproj.ResolveComReference.cache
+C:\Users\FRVRAloneQ\Desktop\Новая папка\FedorGorohov\x64\Debug\FedorGorohov.vcxproj.AssemblyReference.cache
+C:\Users\FRVRAloneQ\Desktop\Новая папка\FedorGorohov\x64\Debug\FedorGorohov.vcxproj.ResolveComReference.cache
+C:\Users\FRVRAloneQ\Desktop\Новая папка\FedorGorohov\x64\Debug\FedorGorohov.MainForm.resources
+C:\Users\FRVRAloneQ\Desktop\Новая папка\FedorGorohov\x64\Debug\FedorGorohov.vcxproj.GenerateResource.cache
